@@ -14,16 +14,5 @@ keras
 tensorflow-gpu
 theano
 pytorch
-torchvision
-cuda80
-bcolz
-xgboost
-gensim
-keras_tqdmtop
 image
-word2vec
-pillow-simd
-gensim
-MayaVI
-pydot3
-graphviz
+os
