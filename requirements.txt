@@ -15,4 +15,4 @@ tensorflow-gpu
 theano
 pytorch
 image
-os
+
