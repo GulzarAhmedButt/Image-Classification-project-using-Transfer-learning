@@ -13,6 +13,4 @@ WTForms==2.3.3
 keras
 tensorflow-gpu
 theano
-pytorch
-image
 
